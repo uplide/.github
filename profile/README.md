@@ -1,4 +1,12 @@
-# Uplide Teknoloji A.Ş.
+<p align="center">
+  <table><tr><td align="center" bgcolor="#111318">
+    <a href="https://uplide.com/en">
+      <img src="https://uplide.com/_next/image?url=%2Fwebsite%2Fuplidelogo-white.png&w=1200&q=75" alt="Uplide" width="220"/>
+    </a>
+  </td></tr></table>
+</p>
+
+# Uplide Technology
 
 **We build software that scales with you.**
 
