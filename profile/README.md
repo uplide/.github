@@ -6,7 +6,7 @@
   </td></tr></table>
 </p>
 
-# Uplide Technology
+# Uplide Teknoloji A.Ş.
 
 **We build software that scales with you.**
 
